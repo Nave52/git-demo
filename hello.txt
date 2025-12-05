@@ -1,0 +1,5 @@
+welcome to devops batch-9
+this is your first project
+should have knowledge on aws
+you'll be promote after this project
+you will be assign to another project
